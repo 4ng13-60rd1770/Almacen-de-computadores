@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2? family= Poppins:wght@100 & display=swap');
+
+
+header{
+
+    font-size: 15px;
+    padding: 0px 11px 0px 0px;
+    border-right:#ffff;
+}
+
+a.navbar-brand{
+    width: auto;
+}
+
+tr{
+	border: 5px;
+}
+footer{
+	text-align: center;
+}
+
+p.text{
+	color:#2AF905;
+}
+
+h2.text.mb-3{
+		color:#2AF905;
+		font-size:17px;
+}
+a{
+	font-size:14px;
+	color:#2af905;
+}
+h6{
+	font-size:9px;
+}
